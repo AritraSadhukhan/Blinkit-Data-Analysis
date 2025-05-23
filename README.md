@@ -74,4 +74,3 @@ Blinkit, as a fast-delivery grocery platform, generates vast amounts of data dai
 
 ---
 
-> ✅ *Feel free to clone this repo, explore the dashboard, or reach out for feedback or collaboration!*
