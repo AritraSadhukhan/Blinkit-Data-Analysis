@@ -62,8 +62,6 @@ Blinkit, as a fast-delivery grocery platform, generates vast amounts of data dai
 
 ![Image](https://github.com/user-attachments/assets/1a430049-852d-4aa4-9023-fcba7cceee01)
 
-> 📝 *Replace this image path with a screenshot of your actual Power BI dashboard.*
-
 ---
 
 ## 🔗 Let's Connect
